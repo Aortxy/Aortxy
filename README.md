@@ -11,7 +11,7 @@
 
 - 💬 Ask me about Web Development & Networking
 
-- 📫 How to reach me: [ https://t.me/Aortxy ]
+- 📫 How to reach me: https://t.me/Aortxy 
 
 ---
 
