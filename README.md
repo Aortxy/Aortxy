@@ -1,6 +1,11 @@
 <h1 align="center">__________</h1>
 
 
+## Loader Animation
+
+[Klik untuk melihat animasi loader](https://aortxy.github.io/Loader/loader.html)
+
+[![Loader Animation](https://aortxy.github.io/Loader/loader.html)](https://aortxy.github.io/Loader/loader.html)
 
 
 <div align="center">
