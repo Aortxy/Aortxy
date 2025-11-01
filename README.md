@@ -18,7 +18,7 @@ Domain: aortxy.web.id
 
 ---
 
-- 💬 Ask Me About Web Development & Networking Maybe Discuss CyberSecurity Once In A While
+- 💬   Ask Me About Web Development & Networking        Maybe Discuss CyberSecurity Once In A While
 
 ---
 
@@ -49,13 +49,9 @@ Domain: aortxy.web.id
 
 ---
 
-- 💬 Ask me about Web Development & Networking
-
-- 📫 How to reach me: https://t.me/Aortxy 
+© Aortxy | Contributor Open Source 
 
 ---
 
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://qris.zone.id/aortavx) 
-  
----
+
 
